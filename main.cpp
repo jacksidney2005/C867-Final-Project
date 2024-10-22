@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     cout << "Scripting and Programming - Applications - C867" << endl;
     cout << "The program is using the C++ programming language" << endl;
-    cout << "Student ID: 011741130" << endl;
+    cout << "Student ID: 000000000" << endl;
     cout << "Name: Jack Bellingham" << endl;
 
     Roster classRoster;
